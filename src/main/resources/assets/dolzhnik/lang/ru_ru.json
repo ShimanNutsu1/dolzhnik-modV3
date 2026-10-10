@@ -1,0 +1,9 @@
+{
+  "block.dolzhnik.black_trunk": "Чёрный ствол",
+  "block.dolzhnik.scorched_earth": "Выжженная земля",
+  "entity.dolzhnik.creditor": "Кредитор",
+  "entity.dolzhnik.forest_debtor": "Взыскатель леса",
+  "entity.dolzhnik.depths_debtor": "Взыскатель недр",
+  "entity.dolzhnik.fire_debtor": "Взыскатель огня",
+  "entity.dolzhnik.debt_ghost": "Призрак убитого"
+}
